@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+    .oc-logo {
+        width: 200px;
+    }
+    
+    .header-top {
+        height: 120vh;
+    }
+    
+    .header-top::before, .header-top::after {
+        height: 120vh;
+    }
+    
+    .welcome-title {
+        margin-top: 10px;
+    }
+}
